@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Movie",
+    "poster": "https://via.placeholder.com/300x450",
+    "description": "Demo movie for testing",
+    "telegramPostLink": "https://t.me/c/xxxxxxxxxx/1"
+  }
+]
